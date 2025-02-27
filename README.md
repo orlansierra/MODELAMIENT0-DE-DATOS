@@ -10,7 +10,7 @@ Gestionar presupuestos y costos de cada proyecto.
 Generar reportes financieros detallados.
 Facilitar el acceso a la información para los gerentes de proyecto.
 # Caso referente a una Solución BI:
-"Implementación de un Cuadro de Mando Financiero para Proyectos"
+"Implementación de un Cuadro de Mando Financiero para Proyectos": 
 La empresa necesita mejorar la toma de decisiones mediante un sistema de Business Intelligence (BI) que integre y visualice datos financieros clave. Se propone:
 
 Crear un dashboard interactivo que muestre el estado financiero de cada proyecto.
