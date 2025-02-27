@@ -1,5 +1,6 @@
 # Tema elegido: Optimización de Ventas y Gestión de Inventario con Tecnología
 Caso referente a Bases de Datos
+
 Título: Implementación de un Sistema de Gestión de Inventario para una Tienda Minorista
 
 Descripción:
