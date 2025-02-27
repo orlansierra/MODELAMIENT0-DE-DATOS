@@ -2,7 +2,7 @@
 Tema elegido: Inteligencia de Negocios para la Gestión Financiera de Proyectos
 
 # Caso referente a bases de datos:
-"Desarrollo de un Sistema de Gestión Financiera para Proyectos "
+"Desarrollo de un Sistema de Gestión Financiera para Proyectos": 
 Una empresa de consultoría multinacional ha desarrollado múltiples proyectos para clientes de diferentes sectores. La alta dirección busca implementar un sistema de Inteligencia de Negocios (BI) que permita analizar el desempeño financiero de los proyectos, optimizar la asignación de recursos y mejorar la rentabilidad.. Se propone la implementación de una base de datos centralizada que permita:
 
 Registrar ingresos y egresos en tiempo real.
