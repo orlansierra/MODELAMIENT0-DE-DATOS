@@ -13,6 +13,7 @@ Incluir un módulo para registrar ventas y actualizar automáticamente el stock.
 Generar reportes de ventas y estado de inventario en tiempo real.
 
 Caso referente a una Solución de BI (Business Intelligence)
+
 Título: Análisis Predictivo de Ventas e Inventario en una Empresa de Comercio Electrónico
 
 Descripción:
