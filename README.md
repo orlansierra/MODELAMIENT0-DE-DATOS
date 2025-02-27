@@ -1,19 +1,26 @@
-# Tarea-01
-Tema elegido: Inteligencia de Negocios para la Gestión Financiera de Proyectos
+# Tema elegido: Optimización de Ventas y Gestión de Inventario con Tecnología
+Caso referente a Bases de Datos
+Título: Implementación de un Sistema de Gestión de Inventario para una Tienda Minorista
 
-# Caso referente a bases de datos:
-"Desarrollo de un Sistema de Gestión Financiera para Proyectos": 
-Una empresa de consultoría multinacional ha desarrollado múltiples proyectos para clientes de diferentes sectores. La alta dirección busca implementar un sistema de Inteligencia de Negocios (BI) que permita analizar el desempeño financiero de los proyectos, optimizar la asignación de recursos y mejorar la rentabilidad.. Se propone la implementación de una base de datos centralizada que permita:
+Descripción:
+Una tienda minorista de electrodomésticos enfrenta problemas con el manejo de su inventario. Actualmente, utilizan hojas de cálculo para registrar entradas y salidas de productos, lo que genera errores humanos, sobrestock de algunos artículos y desabastecimiento de otros.
 
-Registrar ingresos y egresos en tiempo real.
-Gestionar presupuestos y costos de cada proyecto.
-Generar reportes financieros detallados.
-Facilitar el acceso a la información para los gerentes de proyecto.
-# Caso referente a una Solución BI:
-"Implementación de un Cuadro de Mando Financiero para Proyectos": 
-La empresa necesita mejorar la toma de decisiones mediante un sistema de Business Intelligence (BI) que integre y visualice datos financieros clave. Se propone:
+Requerimientos:
 
-Crear un dashboard interactivo que muestre el estado financiero de cada proyecto.
-Utilizar herramientas de BI (Power BI, Tableau) para generar reportes de costos, rentabilidad y flujo de efectivo.
-Implementar alertas automáticas en caso de desviaciones presupuestarias.
-Optimizar la planificación financiera con análisis predictivo basado en datos históricos.
+Implementar una base de datos relacional para gestionar productos, proveedores, clientes y transacciones.
+Diseñar tablas para productos con atributos como ID, nombre, categoría, precio, cantidad en stock y fecha de última reposición.
+Incluir un módulo para registrar ventas y actualizar automáticamente el stock.
+Generar reportes de ventas y estado de inventario en tiempo real.
+
+Caso referente a una Solución de BI (Business Intelligence)
+Título: Análisis Predictivo de Ventas e Inventario en una Empresa de Comercio Electrónico
+
+Descripción:
+Una empresa de e-commerce busca optimizar su proceso de ventas y mejorar la gestión de inventarios mediante el uso de herramientas de Business Intelligence. Actualmente, tienen grandes volúmenes de datos dispersos en múltiples sistemas y carecen de visibilidad clara sobre patrones de compra y demanda de productos.
+
+Requerimientos:
+
+Implementar un Data Warehouse para centralizar datos de ventas, inventario y clientes.
+Utilizar Power BI o Tableau para crear dashboards interactivos con indicadores clave como ventas por categoría, tendencia de productos más vendidos y predicción de demanda.
+Aplicar técnicas de Machine Learning para predecir qué productos se agotarán pronto y generar alertas para reabastecimiento.
+Optimizar la rotación de inventario con modelos de pronóstico basados en datos históricos.
