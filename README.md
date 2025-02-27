@@ -9,9 +9,12 @@ Una tienda minorista de electrodomésticos enfrenta problemas con el manejo de s
 Requerimientos:
 
 Implementar una base de datos relacional para gestionar productos, proveedores, clientes y transacciones.
+
 Diseñar tablas para productos con atributos como ID, nombre, categoría, precio, cantidad en stock y fecha de última reposición.
+
 Incluir un módulo para registrar ventas y actualizar automáticamente el stock.
-Generar reportes de ventas y estado de inventario en tiempo real.
+
+
 
 Caso referente a una Solución de BI (Business Intelligence)
 
@@ -22,7 +25,10 @@ Una empresa de e-commerce busca optimizar su proceso de ventas y mejorar la gest
 
 Requerimientos:
 
-Implementar un Data Warehouse para centralizar datos de ventas, inventario y clientes.
-Utilizar Power BI o Tableau para crear dashboards interactivos con indicadores clave como ventas por categoría, tendencia de productos más vendidos y predicción de demanda.
-Aplicar técnicas de Machine Learning para predecir qué productos se agotarán pronto y generar alertas para reabastecimiento.
-Optimizar la rotación de inventario con modelos de pronóstico basados en datos históricos.
+Información de ventas (cantidad, proveedores, articulos). 
+
+Identificación de productos de alto y bajo rendimiento.
+
+Comportamiento de compra por cliente.
+
+Indicadores clave como ventas por categoría, tendencia de productos más vendidos y predicción de demanda.
